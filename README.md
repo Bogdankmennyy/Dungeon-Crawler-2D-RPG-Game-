@@ -14,5 +14,9 @@ A collection of programming tasks focused on algorithms, Object-Oriented Program
 ## 💻 Tech Stack
 * **Language**: Python (or Java/C++ depending on what you used)
 * **Concepts**: OOP, Design Patterns (Iterator, MVC), File I/O, Data Analytics, Algorithms.
+
+
+
+
 * [Design Document.docx](https://github.com/user-attachments/files/27863191/Design.Document.docx)
 
