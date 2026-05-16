@@ -11,10 +11,6 @@ A collection of programming tasks focused on algorithms, Object-Oriented Program
 * **`05_iterator`** — **Design Patterns & Custom Iterators**: Implementation of a custom iterable class (`IterClass`) that filters collections using predicates and lambda functions.
 * **`06_hobbit`** — **File I/O & Text Analytics**: A comprehensive text analyzer that processes *The Hobbit* novel, calculating word frequencies, chapter metrics, and filtering stopwords.
 
-## 💻 Tech Stack
-* **Language**: Python (or Java/C++ depending on what you used)
-* **Concepts**: OOP, Design Patterns (Iterator, MVC), File I/O, Data Analytics, Algorithms.
-
 
 
 
